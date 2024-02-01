@@ -33,7 +33,7 @@ button {
     background: #e9332d;
     border: none;
     border-radius: 5px;
-    box-shadow: 2px 2px 20px 10px rgba(0,0,0,0.2);
+    box-shadow: 2px 2px 20px 10px rgba(0,0,0,0.3);
 }
 
 button:hover {
